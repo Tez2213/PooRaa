@@ -1,0 +1,8 @@
+h1 {
+  color: hotpink;
+}
+
+.card-container {
+  display: flex;
+  gap: 10px; /* Space between cards */
+}
